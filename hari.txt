@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hari added a file 4
+=======
+Hari added a file 1
+>>>>>>> parent of 964506d (Hari file2)
